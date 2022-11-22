@@ -1,0 +1,1 @@
+# How to install the script(s) on your website
